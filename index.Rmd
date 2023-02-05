@@ -1,0 +1,60 @@
+---
+title: "KP Med Analytics Insights"
+image: "kellz.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/keletso-phohlo-348408234/ target = '_blank' "
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:kellzphohlo@proton.me"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+ 
+## Bio
+
+I love helping medical scientists and researchers with data analysis using R and Python. My passion is training and statistical analysis of medical data. I build statistical software such as dashboards for easier data visualization and analysis. My area of focus</strong> is applying data science to academic projects. I create value for medical scientists and students by enriching their projects with up to date biostatistical methods and delivering statistical analysis to bring about insights in their projects. I enjoy learning, working with fellow medical scientists, researchers and students, and making actionable plans with data.
+
+## Education
+
+**University of Cape Town** | Cape Town, RSA
+
+MSc. in Medical Virology | 2019 - 2021
+
+**University of Cape Town** | Cape Town, RSA
+
+BMedSc(Hon). Infectious Disease and Immunology | 2018
+
+**Stellenbosch University** | Cape Town, RSA
+
+BMedSc(Hon). Fine Needle Aspiration and Gynaecological Cytology | 2016
+
+**Nelson Mandela University** | Gqheberha/PE, RSA
+
+BSc. Medical Science | 2006 - 2010
+
+## Experience
+
+**KP Med Analytics Insights (Pty) Ltd** | Founder | January 2020 - Present
+
+**National Health Laboratory Service (NHLS)** | Medical Scientist | March 2021 - Present
+
+**UCT Institute of Infectious Disease and Molecular Medicine** | Medical Scientist | Feb 2018 - Present
+
+**National Health Laboratory Service (NHLS)** | Cytologist | Dec 2010 - Present
+
+**National Health Laboratory Service (NHLS)** | Biostatistician | Dec 2010 - Present
+
+**National Health Laboratory Service (NHLS)** | Specialist Trainer | Apr 2012 - Jan 2018
+
+**National Health Laboratory Service (NHLS)** | Supervisor: Cytopathology | 2015
+
+
+
+
+wowchemy/starter-hugo-academic
+
+
+blogdown::new_site(theme = "wowchemy/starter-hugo-academic")
